@@ -22,6 +22,7 @@
    <RemoteHost>${remoteHost!""}</RemoteHost>
    <Host>${host}</Host>
    <RemoteUser>${remoteUser!""}</RemoteUser>
+   <RemoteUserAgent>${remoteUserAgent!""}</RemoteUserAgent>
    <ResponseStatus>${responseStatus!""}</ResponseStatus>
    <ResponseLength>${responseLength?c}</ResponseLength>
    <ResponseContentType>${responseContentType!""}</ResponseContentType>
